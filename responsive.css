@@ -1,0 +1,12 @@
+@media screen and (max-width: 992px) {
+    .material-symbols-outlined{
+        display: block;
+    }
+    .menu {
+        display: none;
+    }
+    .intro{
+        height: 1000px;
+    }
+
+}
